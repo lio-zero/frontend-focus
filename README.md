@@ -1,8 +1,10 @@
 # News
 
+一份自己平常阅读的前端文章、新闻、工具，很棒的项目列表。
+
 ## 前端
 
-- [Frontend Focus](https://frontendfoc.us/) 每周一次的最佳前端新闻、文章和教程综述。HTML、CSS、WebGL、Canvas、browser tech 等。
+- [Frontend Focus](https://frontendfoc.us/) 每周一次的最佳前端新闻、文章和教程综述。HTML、CSS、WebGL、Canvas、browser tech 等
 
 ## JavaScript
 
@@ -39,6 +41,19 @@
 - [Serverless 官网](https://cn.serverless.com/)
 - [Serverless](https://serverless.email/) — 每周新闻简报，介绍无服务器和功能即服务（FaaS）架构和平台，包括 AWS Lambda 和 Azure Functions。
 
+## 构建工具
+
+### Webpack
+
+- [Webpack 官网](https://webpack.js.org/)
+- [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) — 精选的 Webpack 资源、库和工具列表
+
+### Vite
+
+- [Vite 官网](https://vitejs.dev/)
+- [awesome-vite](https://github.com/vitejs/awesome-vite) — 与 Vite.js 相关的精彩内容的精选列表
+
 ## 其他
 
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) — 阮一峰老师的科技爱好者周刊
+- [weekly](https://github.com/ascoders/weekly) — 前端精读周刊。帮你理解最前沿、实用的技术。前端精读周刊。帮你理解最前沿、实用的技术
