@@ -41,4 +41,4 @@
 
 ## 其他
 
-- [ruanyf/weekly](https://github.com/search?q=weekly) — 阮一峰老师的科技爱好者周刊
+- [ruanyf/weekly](https://github.com/ruanyf/weekly) — 阮一峰老师的科技爱好者周刊
