@@ -6,6 +6,10 @@
 
 - [Frontend Focus](https://frontendfoc.us/) 每周一次的最佳前端新闻、文章和教程综述。HTML、CSS、WebGL、Canvas、browser tech 等
 
+## CSS
+
+- [State of CSS 2022](https://web.dev/state-of-css-2022/) 和 [CSS in 2022](https://www.bram.us/2021/12/27/css-in-2022/) — CSS 2022 现状
+
 ## JavaScript
 
 - [ECMAScript 提案](https://github.com/tc39/proposals)
@@ -35,6 +39,7 @@
 
 - [React 官网](https://github.com/facebook/react)
 - [React Status](https://react.statuscode.com/) — 每周汇总最新的 React 和 React Native 链接和教程。
+- [2022 年的 React 生态](https://juejin.cn/post/7085542534943883301)
 
 ## Serverless
 
