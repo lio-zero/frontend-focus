@@ -62,3 +62,6 @@
 
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) — 阮一峰老师的科技爱好者周刊
 - [weekly](https://github.com/ascoders/weekly) — 前端精读周刊。帮你理解最前沿、实用的技术。前端精读周刊。帮你理解最前沿、实用的技术
+- [Internet Explorer officially dies today](https://www.trustedreviews.com/news/internet-explorer-officially-dies-today-4241472) — 微软公司于 6 月 15 日永久关闭 IE 浏览器。
+
+![IE 落幕](https://upload-images.jianshu.io/upload_images/18281896-861e71f736cdc412.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
