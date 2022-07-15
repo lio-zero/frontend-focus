@@ -9,13 +9,11 @@
 
 ![IE 落幕](https://upload-images.jianshu.io/upload_images/18281896-861e71f736cdc412.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+- [State of CSS 2022](https://web.dev/state-of-css-2022/) 和 [CSS in 2022](https://www.bram.us/2021/12/27/css-in-2022/) — CSS 2022 现状
+
 ## 前端
 
 - [Frontend Focus](https://frontendfoc.us/) 每周一次的最佳前端新闻、文章和教程综述。HTML、CSS、WebGL、Canvas、browser tech 等
-
-## CSS
-
-- [State of CSS 2022](https://web.dev/state-of-css-2022/) 和 [CSS in 2022](https://www.bram.us/2021/12/27/css-in-2022/) — CSS 2022 现状
 
 ## JavaScript
 
@@ -69,4 +67,3 @@
 
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) — 阮一峰老师的科技爱好者周刊
 - [weekly](https://github.com/ascoders/weekly) — 前端精读周刊。帮你理解最前沿、实用的技术。前端精读周刊。帮你理解最前沿、实用的技术
-
