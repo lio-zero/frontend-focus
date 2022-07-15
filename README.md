@@ -2,6 +2,13 @@
 
 一份自己平常阅读的前端文章、新闻、工具，很棒的项目列表。
 
+## 2022
+
+- [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/) — Stack Overflow 2022 开发者调查
+- [Internet Explorer officially dies today](https://www.trustedreviews.com/news/internet-explorer-officially-dies-today-4241472) — 微软公司于 6 月 15 日永久关闭 IE 浏览器。
+
+![IE 落幕](https://upload-images.jianshu.io/upload_images/18281896-861e71f736cdc412.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ## 前端
 
 - [Frontend Focus](https://frontendfoc.us/) 每周一次的最佳前端新闻、文章和教程综述。HTML、CSS、WebGL、Canvas、browser tech 等
@@ -62,6 +69,4 @@
 
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) — 阮一峰老师的科技爱好者周刊
 - [weekly](https://github.com/ascoders/weekly) — 前端精读周刊。帮你理解最前沿、实用的技术。前端精读周刊。帮你理解最前沿、实用的技术
-- [Internet Explorer officially dies today](https://www.trustedreviews.com/news/internet-explorer-officially-dies-today-4241472) — 微软公司于 6 月 15 日永久关闭 IE 浏览器。
 
-![IE 落幕](https://upload-images.jianshu.io/upload_images/18281896-861e71f736cdc412.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
