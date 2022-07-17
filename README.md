@@ -10,6 +10,7 @@
 ![IE 落幕](https://upload-images.jianshu.io/upload_images/18281896-861e71f736cdc412.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - [State of CSS 2022](https://web.dev/state-of-css-2022/) 和 [CSS in 2022](https://www.bram.us/2021/12/27/css-in-2022/) — CSS 2022 现状
+- [Vite 3.0 is out!](https://vitejs.dev/blog/announcing-vite3.html)
 
 ## 前端
 
@@ -17,7 +18,7 @@
 
 ## JavaScript
 
-- [ECMAScript 提案](https://github.com/tc39/proposals)
+- [ECMAScript 提案](https://tc39.es)
 - [JavaScript Weekly](https://javascriptweekly.com/) — JavaScript 文章、新闻和酷项目的时事通讯
 
 ## Node
