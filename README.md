@@ -64,6 +64,30 @@
 - [Vite 官网](https://vitejs.dev/)
 - [awesome-vite](https://github.com/vitejs/awesome-vite) — 与 Vite.js 相关的精彩内容的精选列表
 
+## awesome
+
+一组 awesome 集合：
+
+- [awesome](https://github.com/sindresorhus/awesome) 关于各种有趣话题的精彩列表
+- [awesome-html5](https://github.com/diegocard/awesome-html5) 精选的 HTML5 资源精选列表
+- [awesome-css](https://github.com/awesome-css-group/awesome-css) 🎨 令人惊叹的 CSS 的精选内容 :)
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) 很棒的 CSS 框架列表
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 令人愉快的 Node.js 包和资源
+- [awesome-npm](https://github.com/sindresorhus/awesome-npm) 很棒的 npm 资源和技巧
+- [awesome-vue](https://github.com/vuejs/awesome-vue) 🎉 与 Vue.js 相关的精彩内容的精选 列表
+- [awesome-react](https://github.com/enaqx/awesome-react) 一系列关于 React 生态系统的精彩内容
+- [awesome-electron](https://github.com/sindresorhus/awesome-electron) 使用 Electron 创建应用程序的有用资源
+- [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) 与 Tailwind CSS 相关的很棒的东西
+- [awesome-linux](https://github.com/inputsh/awesome-linux) 一个很棒的项目和资源列表，这些项目和资源使 Linux 更加出色。
+- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 精心挑选的面试问题清单。随意贡献！🎓
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) 收集各种类别的高级软件。
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 为黑客、渗透测试人员和安全研究人员提供的各种很棒的列表的集合
+- [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) 适用于 Linux 发行版的出色应用程序、软件、工具和其他材料的列表。
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 可以托管在您自己的服务器上的免费软件网络服务和 Web 应用程序列表
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 一系列鼓舞人心的列表、手册、备忘单、博客、黑客、单行、cli/web 工具等。
+- [awesome-go](https://github.com/avelino/awesome-go) — 最近想了解一下 Go
+
 ## 其他
 
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) — 阮一峰老师的科技爱好者周刊
