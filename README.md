@@ -11,6 +11,7 @@
 
 - [State of CSS 2022](https://web.dev/state-of-css-2022/) 和 [CSS in 2022](https://www.bram.us/2021/12/27/css-in-2022/) — CSS 2022 现状
 - [Vite 3.0 is out!](https://vitejs.dev/blog/announcing-vite3.html)
+- [2022 年的 React 生态](https://juejin.cn/post/7085542534943883301)
 
 ## 前端
 
@@ -45,7 +46,6 @@
 
 - [React 官网](https://github.com/facebook/react)
 - [React Status](https://react.statuscode.com/) — 每周汇总最新的 React 和 React Native 链接和教程。
-- [2022 年的 React 生态](https://juejin.cn/post/7085542534943883301)
 
 ## Serverless
 
@@ -72,7 +72,7 @@
 - [awesome-html5](https://github.com/diegocard/awesome-html5) 精选的 HTML5 资源精选列表
 - [awesome-css](https://github.com/awesome-css-group/awesome-css) 🎨 令人惊叹的 CSS 的精选内容 :)
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) 很棒的 CSS 框架列表
-- [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript) 一组很棒的浏览器端 JavaScript 库、资源和闪亮的东西
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 令人愉快的 Node.js 包和资源
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) 很棒的 npm 资源和技巧
 - [awesome-vue](https://github.com/vuejs/awesome-vue) 🎉 与 Vue.js 相关的精彩内容的精选 列表
