@@ -1,4 +1,4 @@
-# News
+# Frontend Focus
 
 一份自己平常阅读的前端文章、新闻、工具，很棒的项目列表。
 
@@ -21,21 +21,29 @@
 
 - [ECMAScript 提案](https://tc39.es)
 - [JavaScript Weekly](https://javascriptweekly.com/) — JavaScript 文章、新闻和酷项目的时事通讯
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript) 一组很棒的浏览器端 JavaScript 库、资源和闪亮的东西
+- [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) 另外一份中文版的 JS 资源列表
 
 ## Node
 
 - [Node 官网](https://nodejs.org/en/)
 - [Node Weekly](https://nodeweekly.com/) — 一个免费的，每周一次的 Node 新闻和文章的电子邮件汇总。
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 令人愉快的 Node.js 包和资源
+- [awesome-npm](https://github.com/sindresorhus/awesome-npm) 很棒的 npm 资源和技巧
+- [awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) 很棒的 Node.js 开源应用程序的精选列表
+- [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) 很棒的 Node.js 安全资源
 
 ## Deno
 
 - [Deno 官网](https://deno.land/)
 - [Deno News](https://deno.news/) — Deno 文章、新闻和很酷的项目的时事通讯。
+- [awesome-deno](https://github.com/denolib/awesome-deno)
 
 ## Vue
 
 - [Vue.js 官网](https://vuejs.org/)
 - [Vue.js News](https://news.vuejs.org/) — 向 Vue 开发人员提供最新的新闻和教程
+- [awesome-vue](https://github.com/vuejs/awesome-vue) 🎉 与 Vue.js 相关的精彩内容的精选列表
 
 **里程碑**:
 
@@ -46,11 +54,17 @@
 
 - [React 官网](https://github.com/facebook/react)
 - [React Status](https://react.statuscode.com/) — 每周汇总最新的 React 和 React Native 链接和教程。
+- [awesome-react](https://github.com/enaqx/awesome-react) 一系列关于 React 生态系统的精彩内容
+- [awesome-react-native](https://github.com/jondot/awesome-react-native) 很棒的 React Native 组件、新闻、工具和学习资料！
+- [awesome-react-components](https://github.com/brillout/awesome-react-components) React 组件和库的精选列表。
+- [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) 很棒的 React Hooks
 
 ## Serverless
 
 - [Serverless 官网](https://cn.serverless.com/)
 - [Serverless](https://serverless.email/) — 每周新闻简报，介绍无服务器和功能即服务（FaaS）架构和平台，包括 AWS Lambda 和 Azure Functions。
+- [awesome-serverless](https://github.com/anaibol/awesome-serverless) ☁️ 为无服务器/无后端应用程序精心策划的服务、解决方案和资源列表。
+- [awesome-serverless](https://github.com/tinafangkunding/awesome-serverless) Serverless 的 100 种玩法
 
 ## 构建工具
 
@@ -72,11 +86,6 @@
 - [awesome-html5](https://github.com/diegocard/awesome-html5) 精选的 HTML5 资源精选列表
 - [awesome-css](https://github.com/awesome-css-group/awesome-css) 🎨 令人惊叹的 CSS 的精选内容 :)
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) 很棒的 CSS 框架列表
-- [awesome-javascript](https://github.com/sorrycc/awesome-javascript) 一组很棒的浏览器端 JavaScript 库、资源和闪亮的东西
-- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 令人愉快的 Node.js 包和资源
-- [awesome-npm](https://github.com/sindresorhus/awesome-npm) 很棒的 npm 资源和技巧
-- [awesome-vue](https://github.com/vuejs/awesome-vue) 🎉 与 Vue.js 相关的精彩内容的精选 列表
-- [awesome-react](https://github.com/enaqx/awesome-react) 一系列关于 React 生态系统的精彩内容
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron) 使用 Electron 创建应用程序的有用资源
 - [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) 与 Tailwind CSS 相关的很棒的东西
 - [awesome-linux](https://github.com/inputsh/awesome-linux) 一个很棒的项目和资源列表，这些项目和资源使 Linux 更加出色。
