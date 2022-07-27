@@ -16,10 +16,13 @@
 ## 前端
 
 - [Frontend Focus](https://frontendfoc.us/) 每周一次的最佳前端新闻、文章和教程综述。HTML、CSS、WebGL、Canvas、browser tech 等
+- [Frontend Developer](https://roadmap.sh/frontend) 前端开发路线，该网站还提供了其他领域（包括后端、运维、Java、Go、React 等）学习路线
+- [freeCodeCamp](https://www.freecodecamp.org/) 是一个友好的社区，您可以在其中免费学习编码。
+- [CSS-TRICKS](https://link.juejin.cn/?target=https%3A%2F%2Fcss-tricks.com%2F) 一个专注于 CSS 新技术、新特性的优秀网站，也包含了其他的前端技术分享。
 
 ## JavaScript
 
-- [ECMAScript 提案](https://tc39.es)
+- [ECMA TC39](https://github.com/tc39)
 - [JavaScript Weekly](https://javascriptweekly.com/) — JavaScript 文章、新闻和酷项目的时事通讯
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) 一组很棒的浏览器端 JavaScript 库、资源和闪亮的东西
 - [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) 另外一份中文版的 JS 资源列表
@@ -101,3 +104,5 @@
 
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) — 阮一峰老师的科技爱好者周刊
 - [weekly](https://github.com/ascoders/weekly) — 前端精读周刊。帮你理解最前沿、实用的技术。前端精读周刊。帮你理解最前沿、实用的技术
+- [DevDocs](https://devdocs.io/) — 将不同语言、框架和库的 API 汇聚到了一个网页上，你可以直接在一个页面进行搜索。
+- [OverAPI.com](https://overapi.com/) — 收集所有 API 备忘单
