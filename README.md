@@ -13,28 +13,59 @@
 - [Vite 3.0 is out!](https://vitejs.dev/blog/announcing-vite3.html)
 - [2022 年的 React 生态](https://juejin.cn/post/7085542534943883301)
 
-## 前端
+## Frontend
 
-- [Frontend Focus](https://frontendfoc.us/) 每周一次的最佳前端新闻、文章和教程综述。HTML、CSS、WebGL、Canvas、browser tech 等
-- [Frontend Developer](https://roadmap.sh/frontend) 前端开发路线，该网站还提供了其他领域（包括后端、运维、Java、Go、React 等）学习路线
-- [freeCodeCamp](https://www.freecodecamp.org/) 是一个友好的社区，您可以在其中免费学习编码。
-- [CSS-TRICKS](https://link.juejin.cn/?target=https%3A%2F%2Fcss-tricks.com%2F) 一个专注于 CSS 新技术、新特性的优秀网站，也包含了其他的前端技术分享。
+- [Frontend Focus](https://frontendfoc.us/) — 每周一次的最佳前端新闻、文章和教程综述。HTML、CSS、WebGL、Canvas、browser tech 等
+- [Frontend Developer](https://roadmap.sh/frontend) — 前端开发路线，该网站还提供了其他领域（包括后端、运维、Java、Go、React 等）学习路线
+- [freeCodeCamp](https://www.freecodecamp.org/) — 是一个友好的社区，您可以在其中免费学习编码。
+- [CSS-TRICKS](https://link.juejin.cn/?target=https%3A%2F%2Fcss-tricks.com%2F) — 一个专注于 CSS 新技术、新特性的优秀网站，也包含了其他的前端技术分享。
+- [app-ideas](https://github.com/florinpop17/app-ideas) — 一系列应用程序创意，可用于提高您的编码技能。
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) — 通过从头开始重新创建您最喜欢的技术来掌握编程。
+- [gitignore](https://github.com/github/gitignore) — 有用的 .gitignore 模板的集合
+
+## HTML
+
+- [HTML Living Standard](https://html.spec.whatwg.org/multipage/)
+- [WHATWG](https://whatwg.org/)（Web 超文本应用技术工作组）是一个对通过标准和测试来发展 Web 感兴趣的人们组成的社区。
+- [W3C](https://www.w3.org/)（万维网联盟）是一个国际组织，它开发开放标准以确保 Web 的长期发展。
 
 ## JavaScript
 
 - [ECMA TC39](https://github.com/tc39)
 - [JavaScript Weekly](https://javascriptweekly.com/) — JavaScript 文章、新闻和酷项目的时事通讯
-- [awesome-javascript](https://github.com/sorrycc/awesome-javascript) 一组很棒的浏览器端 JavaScript 库、资源和闪亮的东西
-- [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) 另外一份中文版的 JS 资源列表
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript) — 一组很棒的浏览器端 JavaScript 库、资源和闪亮的东西
+- [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) — 另外一份中文版的 JS 资源列表
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) — 关于 JavaScript 的系列书籍
+- [Airbnb](https://github.com/airbnb/javascript) — JavaScript 样式指南
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) — 适用于 JavaScript 的简洁代码概念
+- [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) — 冴羽目前写的四个系列：JavaScript 深度系列，JavaScript 专题系列，ES6 系列，React 系列。
+- [learn-javascript](https://gitbook.gitbook.io/learn-javascript/) — 使用 JavaScript 的 GitBook 教学编程基础
+- [JavaScript questions](https://github.com/lydiahallie/javascript-questions) — 一长串（高级）JavaScript 问题及其解释 ✨
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts) — 每个 JavaScript 开发人员都应该知道的 33 个概念。
+- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) — JavaScript 编程语言的分步指南
+- [javascript-patterns](https://github.com/shichuan/javascript-patterns) — JavaScript 设计模式集合，已经是个老项目了，但也值得阅读
+- [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) — 有关现代项目中经常遇到的 JavaScript 知识的备忘单。
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) — JavaScript 实现的算法和数据结构，附有解释和进一步阅读的链接
+- [30 seconds of code](https://www.30secondsofcode.org/) — 满足您所有开发需求的简短 JavaScript 代码片段
+- [ES6 入门教程](https://es6.ruanyifeng.com/)
+- [现代 JavaScript 教程](https://zh.javascript.info/)
+
+## TypeScript
+
+- [TypeScript](https://github.com/microsoft/TypeScript)
+- [type-challenges](https://github.com/type-challenges/type-challenges) — TypeScript 类型挑战
+- [TypeScript Playground](https://www.typescriptlang.org/play) — 在线体验 TypeScript
 
 ## Node
 
 - [Node 官网](https://nodejs.org/en/)
 - [Node Weekly](https://nodeweekly.com/) — 一个免费的，每周一次的 Node 新闻和文章的电子邮件汇总。
-- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 令人愉快的 Node.js 包和资源
-- [awesome-npm](https://github.com/sindresorhus/awesome-npm) 很棒的 npm 资源和技巧
-- [awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) 很棒的 Node.js 开源应用程序的精选列表
-- [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) 很棒的 Node.js 安全资源
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) — 令人愉快的 Node.js 包和资源
+- [awesome-npm](https://github.com/sindresorhus/awesome-npm) — 很棒的 npm 资源和技巧
+- [awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) — 很棒的 Node.js 开源应用程序的精选列表
+- [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) — 很棒的 Node.js 安全资源
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) — ✅ Node.js 最佳实践列表（2022 年 6 月）
+- [deep-into-node](https://github.com/yjhjstz/deep-into-node) — 深入理解 Node.js：核心思想与源码分析
 
 ## Deno
 
@@ -47,6 +78,9 @@
 - [Vue.js 官网](https://vuejs.org/)
 - [Vue.js News](https://news.vuejs.org/) — 向 Vue 开发人员提供最新的新闻和教程
 - [awesome-vue](https://github.com/vuejs/awesome-vue) 🎉 与 Vue.js 相关的精彩内容的精选列表
+- [vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) — Vue.js 挑战集锦
+- [Vue SFC Playground](https://sfc.vuejs.org/) — 在线体验 Vue
+- [mini-vue](https://github.com/cuixiaorui/mini-vue) — 一个最简化 vue3 模型
 
 **里程碑**:
 
@@ -61,6 +95,8 @@
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) 很棒的 React Native 组件、新闻、工具和学习资料！
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) React 组件和库的精选列表。
 - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) 很棒的 React Hooks
+- 在线体验 React — [CodePen](https://reactjs.org/redirect-to-codepen/hello-world)、[CodeSandbox](https://codesandbox.io/s/new) 和 [Stackblitz](https://stackblitz.com/fork/react)
+- [React 源码解析](https://react.jokcy.me/)
 
 ## Serverless
 
@@ -69,7 +105,7 @@
 - [awesome-serverless](https://github.com/anaibol/awesome-serverless) ☁️ 为无服务器/无后端应用程序精心策划的服务、解决方案和资源列表。
 - [awesome-serverless](https://github.com/tinafangkunding/awesome-serverless) Serverless 的 100 种玩法
 
-## 构建工具
+## Build Tools
 
 ### Webpack
 
@@ -100,9 +136,12 @@
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 一系列鼓舞人心的列表、手册、备忘单、博客、黑客、单行、cli/web 工具等。
 - [awesome-go](https://github.com/avelino/awesome-go) — 最近想了解一下 Go
 
-## 其他
+## other
 
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) — 📚 免费提供的编程书籍
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) — 阮一峰老师的科技爱好者周刊
 - [weekly](https://github.com/ascoders/weekly) — 前端精读周刊。帮你理解最前沿、实用的技术。前端精读周刊。帮你理解最前沿、实用的技术
 - [DevDocs](https://devdocs.io/) — 将不同语言、框架和库的 API 汇聚到了一个网页上，你可以直接在一个页面进行搜索。
 - [OverAPI.com](https://overapi.com/) — 收集所有 API 备忘单
+- [Public APIs](https://github.com/public-apis/public-apis) — 免费 API 的集合列表
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) — 一页掌握命令行
