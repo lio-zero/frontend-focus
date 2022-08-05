@@ -7,7 +7,7 @@
 - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/) — Stack Overflow 2022 开发者调查
 - [Internet Explorer officially dies today](https://www.trustedreviews.com/news/internet-explorer-officially-dies-today-4241472) — 微软公司于 6 月 15 日永久关闭 IE 浏览器。
 
-![IE 落幕](https://upload-images.jianshu.io/upload_images/18281896-861e71f736cdc412.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![IE 落幕](https://upload-images.jianshu.io/upload_images/18281896-694798ac83a00cde.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - [State of CSS 2022](https://web.dev/state-of-css-2022/) 和 [CSS in 2022](https://www.bram.us/2021/12/27/css-in-2022/) — CSS 2022 现状
 - [Vite 3.0 is out!](https://vitejs.dev/blog/announcing-vite3.html)
