@@ -49,22 +49,6 @@
 - [ES6 入门教程](https://es6.ruanyifeng.com/)
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
-## JavaScript 精选书籍
-
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) — 关于 JavaScript 的系列书籍
-- [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
-- [JavaScript and jQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
-- [JavaScript: The Definitive Guide: Master the World's Most-Used Programming Language 7th Edition](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
-- [Eloquent JavaScript](https://eloquentjavascript.net/) —
-- [JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/) — JavaScript 设计模式
-- [JavaScript 高级程序设计（第 4 版）](https://book.douban.com/subject/35175321/)
-- [JavaScript 忍者秘籍（第 2 版）](https://book.douban.com/subject/30143702/)
-- [你不知道的 JavaScript（上卷）](https://book.douban.com/subject/26351021/)
-- [JavaScript 悟道](https://book.douban.com/subject/35469273/)
-- [JavaScript 语言精髓与编程实践（第 3 版）](https://book.douban.com/subject/35085910/)
-
-<!-- https://www.thisdot.co/blog/my-top-6-javascript-book-picks#javascript-and-jquery-interactive-front-end-web-development -->
-
 ## TypeScript
 
 - [TypeScript](https://github.com/microsoft/TypeScript)
