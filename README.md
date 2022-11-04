@@ -14,9 +14,11 @@
 - [2022 年的 React 生态](https://juejin.cn/post/7085542534943883301)
 - [尤雨溪主题演讲《2022 前端生态趋势》全记录](https://juejin.cn/post/7123126028838862862)
 - [State of Frontend 2022](https://tsh.io/state-of-frontend/)
+- [Is Turbopack really 10x Faster than Vite?](https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8)
 
 ## Frontend
 
+- [MDN](https://developer.mozilla.org/en-US/) — MDN Web Docs 提供了关于开放 Web 技术的信息，包括 HTML、CSS 和 JS，以及用于 Web 站点和渐进式的 Web 应用程序的 API。
 - [Frontend Focus](https://frontendfoc.us/) — 每周一次的最佳前端新闻、文章和教程综述。HTML、CSS、WebGL、Canvas、browser tech 等
 - [Frontend Developer](https://roadmap.sh/frontend) — 前端开发路线，该网站还提供了其他领域（包括后端、运维、Java、Go、React 等）学习路线
 - [freeCodeCamp](https://www.freecodecamp.org/) — 是一个友好的社区，您可以在其中免费学习编码。
@@ -47,7 +49,7 @@
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) — JavaScript 实现的算法和数据结构，附有解释和进一步阅读的链接。
 - [30 seconds of code](https://www.30secondsofcode.org/) — 满足您所有开发需求的简短 JavaScript 代码片段。
 - [ES6 入门教程](https://es6.ruanyifeng.com/)
-- [现代 JavaScript 教程](https://zh.javascript.info/)
+- [现代 JavaScript 教程](https://zh.javascript.info/) — 以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 
 ## TypeScript
 
@@ -61,6 +63,7 @@
 - [Node Weekly](https://nodeweekly.com/) — 一个免费的，每周一次的 Node 新闻和文章的电子邮件汇总。
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) — 令人愉快的 Node.js 包和资源。
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) — 很棒的 npm 资源和技巧。
+- [awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages)
 - [awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) — 很棒的 Node.js 开源应用程序的精选列表。
 - [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) — 很棒的 Node.js 安全资源。
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) — ✅ Node.js 最佳实践列表（2022 年 6 月）。
@@ -137,6 +140,9 @@
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) — dotfiles 文件资源的精选列表。
 - [awesome-actions](https://github.com/sdras/awesome-actions) — 在 GitHub 上使用的精彩 actions 列表。
 - [awesome-redis](https://github.com/JamzyWang/awesome-redis) — 令人惊叹的 redis 和 redis 生态系统资源的精选列表。
+- [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) 受 awesome-mysql 启发的精选 PostgreSQL 软件、库、工具和资源列表
+- [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等
+- [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) 精选的 MySQL 软件、库、工具和资源列表
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) — 收集了各种类别的出色 macOS 软件。
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) 后端架构师技术图谱。
 - [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) — 适用于 Linux 的 Windows 子系统的精彩列表。
@@ -146,8 +152,11 @@
 
 ## Other
 
+- [996.ICU](https://github.com/996icu/996.ICU)
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) — 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计。
 - [app-ideas](https://github.com/florinpop17/app-ideas) — 一系列应用程序创意，可用于提高您的编码技能。
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) — 通过从头开始重新创建您最喜欢的技术来掌握编程。
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) — 学习如何设计大型系统。为系统设计面试做准备。
 - [gitignore](https://github.com/github/gitignore) — 有用的 .gitignore 模板的集合。
 - [gold-miner](https://github.com/xitu/gold-miner) — 🥇 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 - [Google Chrome version history](https://en.wikipedia.org/wiki/Google_Chrome_version_history?source=post_page-----1e7d07966d6c----------------------) — Google Chrome 历史版本。
