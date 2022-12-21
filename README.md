@@ -15,14 +15,17 @@
 - [尤雨溪主题演讲《2022 前端生态趋势》全记录](https://juejin.cn/post/7123126028838862862)
 - [State of Frontend 2022](https://tsh.io/state-of-frontend/)
 - [Is Turbopack really 10x Faster than Vite?](https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8)
+- [Announcing Nuxt 3.0 stable](https://nuxt.com/v3) — Nuxt 3.0 宣布推出稳定版
+- [State of CSS 2022](https://2022.stateofcss.com/en-US/) — 2022 年 CSS 生态圈的技术趋势！
 
 ## Frontend
 
 - [MDN](https://developer.mozilla.org/en-US/) — MDN Web Docs 提供了关于开放 Web 技术的信息，包括 HTML、CSS 和 JS，以及用于 Web 站点和渐进式的 Web 应用程序的 API。
 - [Frontend Focus](https://frontendfoc.us/) — 每周一次的最佳前端新闻、文章和教程综述。HTML、CSS、WebGL、Canvas、browser tech 等
 - [Frontend Developer](https://roadmap.sh/frontend) — 前端开发路线，该网站还提供了其他领域（包括后端、运维、Java、Go、React 等）学习路线
-- [freeCodeCamp](https://www.freecodecamp.org/) — 是一个友好的社区，您可以在其中免费学习编码。
+- [freeCodeCamp](https://www.freecodecamp.org/) — 是一个友好的社区，你可以在其中免费学习编码。
 - [CSS-TRICKS](https://link.juejin.cn/?target=https%3A%2F%2Fcss-tricks.com%2F) — 一个专注于 CSS 新技术、新特性的优秀网站，也包含了其他的前端技术分享。
+- [weekly](https://github.com/ascoders/weekly) — 前端精读周刊。帮你理解最前沿、实用的技术。前端精读周刊。帮你理解最前沿、实用的技术。
 
 ## HTML
 
@@ -47,7 +50,7 @@
 - [javascript-patterns](https://github.com/shichuan/javascript-patterns) — JavaScript 设计模式集合，已经是个老项目了，但也值得阅读。
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) — 有关现代项目中经常遇到的 JavaScript 知识的备忘单。
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) — JavaScript 实现的算法和数据结构，附有解释和进一步阅读的链接。
-- [30 seconds of code](https://www.30secondsofcode.org/) — 满足您所有开发需求的简短 JavaScript 代码片段。
+- [30 seconds of code](https://www.30secondsofcode.org/) — 满足你所有开发需求的简短 JavaScript 代码片段。
 - [ES6 入门教程](https://es6.ruanyifeng.com/)
 - [现代 JavaScript 教程](https://zh.javascript.info/) — 以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 
@@ -83,6 +86,7 @@
 - [vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) — Vue.js 挑战集锦。
 - [Vue SFC Playground](https://sfc.vuejs.org/) — 在线体验 Vue。
 - [mini-vue](https://github.com/cuixiaorui/mini-vue) — 一个最简化 vue3 模型。
+- [vue-design](https://github.com/HcySunYang/vue-design)
 
 **里程碑**:
 
@@ -123,47 +127,50 @@
 
 一组 awesome 集合：
 
-- [awesome](https://github.com/sindresorhus/awesome) 关于各种有趣话题的精彩列表。
-- [awesome-css](https://github.com/awesome-css-group/awesome-css) 🎨 令人惊叹的 CSS 的精选内容 :)
-- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) 很棒的 CSS 框架列表。
-- [awesome-electron](https://github.com/sindresorhus/awesome-electron) 使用 Electron 创建应用程序的有用资源。
+- [awesome](https://github.com/sindresorhus/awesome) — 关于各种有趣话题的精彩列表。
+- [awesome-css](https://github.com/awesome-css-group/awesome-css) — 🎨 令人惊叹的 CSS 的精选内容 :)
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) — 很棒的 CSS 框架列表。
+- [awesome-electron](https://github.com/sindresorhus/awesome-electron) — 使用 Electron 创建应用程序的有用资源。
 - [awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking) — 一份关于 Electron.js security 的精选资源列表。
 - [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) — 与 Tailwind CSS 相关的很棒的东西。
 - [awesome-linux](https://github.com/inputsh/awesome-linux) — 一个很棒的项目和资源列表，这些项目和资源使 Linux 更加出色。
-- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 精心挑选的面试问题清单。随意贡献！🎓
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) 收集各种类别的高级软件。
-- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 为黑客、渗透测试人员和安全研究人员提供的各种很棒的列表的集合。
-- [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) 适用于 Linux 发行版的出色应用程序、软件、工具和其他材料的列表。
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 可以托管在您自己的服务器上的免费软件网络服务和 Web 应用程序列表。
-- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 一系列鼓舞人心的列表、手册、备忘单、博客、黑客、单行、cli/web 工具等。
+- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) — 精心挑选的面试问题清单。随意贡献！🎓
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) — 收集各种类别的高级软件。
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) — 为黑客、渗透测试人员和安全研究人员提供的各种很棒的列表的集合。
+- [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) — 适用于 Linux 发行版的出色应用程序、软件、工具和其他材料的列表。
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) — 可以托管在你自己的服务器上的免费软件网络服务和 Web 应用程序列表。
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) — 一系列鼓舞人心的列表、手册、备忘单、博客、黑客、单行、cli/web 工具等。
 - [awesome-go](https://github.com/avelino/awesome-go) — Go 框架、库和软件的精选列表。
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) — dotfiles 文件资源的精选列表。
 - [awesome-actions](https://github.com/sdras/awesome-actions) — 在 GitHub 上使用的精彩 actions 列表。
 - [awesome-redis](https://github.com/JamzyWang/awesome-redis) — 令人惊叹的 redis 和 redis 生态系统资源的精选列表。
-- [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) 受 awesome-mysql 启发的精选 PostgreSQL 软件、库、工具和资源列表
-- [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等
-- [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) 精选的 MySQL 软件、库、工具和资源列表
+- [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) — 受 awesome-mysql 启发的精选 PostgreSQL 软件、库、工具和资源列表
+- [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) — MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等
+- [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) — 精选的 MySQL 软件、库、工具和资源列表
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) — 收集了各种类别的出色 macOS 软件。
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) 后端架构师技术图谱。
 - [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) — 适用于 Linux 的 Windows 子系统的精彩列表。
 - [awesome-eslint](https://github.com/dustinspecker/awesome-eslint) — 很棒的 ESLint 插件、配置等列表
 - [awesome-security](https://github.com/sbilly/awesome-security) — 一组很棒的软件、库、文档、书籍、资源和关于安全的材料集合。
 - [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) — 🐶 一份精心策划的 Web 安全材料和资源列表。
+- [awesome-swift](https://github.com/matteocrippa/awesome-swift) — 一份很棒的 Swift 库和资源的合作列表。欢迎投稿!
+- [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) — 一个为 macOS 精心策划的令人敬畏的应用程序、软件、工具和闪亮事物的列表。
+- [awesome-ios](https://github.com/vsouza/awesome-ios) — 一份精选的 iOS 生态系统列表，包括 Objective-C 和 Swift 项目。
 
 ## Other
 
 - [996.ICU](https://github.com/996icu/996.ICU)
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) — 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计。
-- [app-ideas](https://github.com/florinpop17/app-ideas) — 一系列应用程序创意，可用于提高您的编码技能。
-- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) — 通过从头开始重新创建您最喜欢的技术来掌握编程。
+- [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) — GitHub 中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+- [app-ideas](https://github.com/florinpop17/app-ideas) — 一系列应用程序创意，可用于提高你的编码技能。
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) — 通过从头开始重新创建你最喜欢的技术来掌握编程。
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) — 学习如何设计大型系统。为系统设计面试做准备。
 - [gitignore](https://github.com/github/gitignore) — 有用的 .gitignore 模板的集合。
 - [gold-miner](https://github.com/xitu/gold-miner) — 🥇 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 - [Google Chrome version history](https://en.wikipedia.org/wiki/Google_Chrome_version_history?source=post_page-----1e7d07966d6c----------------------) — Google Chrome 历史版本。
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) — 📚 免费提供的编程书籍。
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) — 阮一峰老师的科技爱好者周刊。
-- [weekly](https://github.com/ascoders/weekly) — 前端精读周刊。帮你理解最前沿、实用的技术。前端精读周刊。帮你理解最前沿、实用的技术。
 - [DevDocs](https://devdocs.io/) — 将不同语言、框架和库的 API 汇聚到了一个网页上，你可以直接在一个页面进行搜索。
-- [OverAPI.com](https://overapi.com/) — 收集所有 API 备忘单。
+- [OverAPI](https://overapi.com/) — 收集所有 API 备忘单。
 - [Public APIs](https://github.com/public-apis/public-apis) — 免费 API 的集合列表。
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) — 一页掌握命令行。
