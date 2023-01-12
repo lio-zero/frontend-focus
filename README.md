@@ -16,7 +16,10 @@
 - [State of Frontend 2022](https://tsh.io/state-of-frontend/)
 - [Is Turbopack really 10x Faster than Vite?](https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8)
 - [Announcing Nuxt 3.0 stable](https://nuxt.com/v3) — Nuxt 3.0 宣布推出稳定版
+- [2022 JavaScript Rising Stars](https://risingstars.js.org/2022/zh) — 2022 年 JavaScript 领域的年度总结。
 - [State of CSS 2022](https://2022.stateofcss.com/en-US/) — 2022 年 CSS 生态圈的技术趋势！
+- [State of JS 2022](https://2022.stateofjs.com/en-US/) — 2022 年 JS 生态圈的技术趋势！
+- [【VueConf 2022】尤雨溪：Vue 的进化历程](https://juejin.cn/post/7175444694917185591)
 
 ## Frontend
 
@@ -69,8 +72,9 @@
 - [awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages)
 - [awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) — 很棒的 Node.js 开源应用程序的精选列表。
 - [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) — 很棒的 Node.js 安全资源。
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) — ✅ Node.js 最佳实践列表（2022 年 6 月）。
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) — ✅ Node.js 最佳实践列表。
 - [deep-into-node](https://github.com/yjhjstz/deep-into-node) — 深入理解 Node.js：核心思想与源码分析。
+- [Tao of Node - Design, Architecture & Best Practices](https://alexkondov.com/tao-of-node/)
 
 ## Deno
 
@@ -160,6 +164,8 @@
 ## Other
 
 - [996.ICU](https://github.com/996icu/996.ICU)
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) — 📚 免费提供的编程书籍。
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) — 📚 免费的计算机编程类中文书籍。
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) — 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计。
 - [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) — GitHub 中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [app-ideas](https://github.com/florinpop17/app-ideas) — 一系列应用程序创意，可用于提高你的编码技能。
@@ -168,7 +174,6 @@
 - [gitignore](https://github.com/github/gitignore) — 有用的 .gitignore 模板的集合。
 - [gold-miner](https://github.com/xitu/gold-miner) — 🥇 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 - [Google Chrome version history](https://en.wikipedia.org/wiki/Google_Chrome_version_history?source=post_page-----1e7d07966d6c----------------------) — Google Chrome 历史版本。
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) — 📚 免费提供的编程书籍。
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) — 阮一峰老师的科技爱好者周刊。
 - [DevDocs](https://devdocs.io/) — 将不同语言、框架和库的 API 汇聚到了一个网页上，你可以直接在一个页面进行搜索。
 - [OverAPI](https://overapi.com/) — 收集所有 API 备忘单。
